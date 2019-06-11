@@ -70,7 +70,7 @@ If opponent is peeking from behind a corner, player attacks with disadvantage. R
 #### Available shots
 
 | Weapon        | Shots |
-|---------------|-------|
+|---------------|:-----:|
 | Machine Gun   |   30  |
 | Hand Gun      |   20  |
 | Sniper Rifle  |   20  |
@@ -79,7 +79,7 @@ If opponent is peeking from behind a corner, player attacks with disadvantage. R
 #### Weapon bursts
 
 | Weapon        | Shots |
-|---------------|-------|
+|---------------|:-----:|
 | Machine Gun   |   3   |
 | Hand Gun      |   1   |
 | Sniper Rifle  |   1   |
