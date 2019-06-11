@@ -104,7 +104,9 @@ Character name: ______________________
 
 __Received hits__
 
-[&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [RIP] 
+Fill in each bracket when you receive a hit from attacker. Once you reach RIP, the game is over for you.
+
+[&nbsp;&nbsp;] [&nbsp;&nbsp;] [&nbsp;&nbsp;] [&nbsp;&nbsp;] [&nbsp;&nbsp;] [&nbsp;&nbsp;] [&nbsp;&nbsp;] [RIP] 
 
 __Weapons:__
 
