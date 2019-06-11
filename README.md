@@ -2,8 +2,6 @@
 
 Designed by Artur Gajewski
 
-## About
-
 This game is a tactical miniature battle game for tabletops. It has a small learning curve and lots of action.
 
 ## What you need to play
@@ -15,7 +13,7 @@ This game is a tactical miniature battle game for tabletops. It has a small lear
 
 ## Setup
 
-1. Build battle arena on the table
+1. Build battle arena on a table
 2. Add 3D scenery like rocks, hills, trees, buildings and containers on the arena
 3. Lay each player's miniature figure on each corner of the arena
 4. Players now choose which figure the play
@@ -47,7 +45,7 @@ When shot or burst of shots are made, no matter what the outcome, attacking play
 
 During his or her turn, player can commence a focus action. This action disables player to do any actions during their turn but has one of the following outcomes, chosen by the player:
 
-1. Enable attack with advance in next turn
+1. Enable attack with advance in next turn (this is used during next turn only whether attacking or not)
 2. Add three (3) shots to selected weapon
 3. Add one (1) to hit points, but total amount of hit points should not be more than the initial hit points in character sheet
 
@@ -57,9 +55,17 @@ When attacking with advance, roll 2d20 and select the higher outcome, then add t
 
 ### Attack with disadvantage
 
-If opponent is peeking from behind a corner, player attacks with disadvantage. Roll 2d20 and select the lower outcome, then add the weapon's attack modifier.
+If opponent is peeking from behind a corner or is visible with only it's head, player attacks with disadvantage. Roll 2d20 and select the lower outcome, then add the weapon's attack modifier.
 
-#### Attack Modifiers
+### Death and obtaining gear
+
+If a player is shot to death, it is laid down horizontally on the spot of where it was killed. Next player that reaches this spot can select one of the dead player's weapons along with it's available shots.
+
+## Charts
+
+Consult charts below to figure out differrent statistics needed for combat.
+
+#### Attack Modifiers for different weapons
 
 | Distance      | 0-2" | 2-4" | 4-6" | 6-8" | 8-10" | 10-12" | 12-14" | 14-16" | 16-18" | 18-20" | > 20" |
 |---------------|:----:|:----:|:----:|:----:|:-----:|:------:|:------:|:------:|:------:|:------:|:-----:|
@@ -68,7 +74,7 @@ If opponent is peeking from behind a corner, player attacks with disadvantage. R
 | Sniper Rifle  |  -8  |  -8  |  -6  |  -4  |   -2  |   -2   |    0   |    2   |    4   |    4   |   4   |
 | Flame thrower |   4  |   4  |   3  |   2  |   0   |   -2   |   -6   |   -8   |   -8   |   -8   |   -8  |
 
-#### Available shots
+#### Available shots for each weapon
 
 | Weapon        | Shots |
 |---------------|:-----:|
