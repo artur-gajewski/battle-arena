@@ -1,4 +1,8 @@
-Character name: Tigerus
+# BATTL:E ARENA
+
+## Character sheet
+
+### Tigerus
 
 | HP | AC | SPD | STR |
 |:--:|:--:|:---:|:---:|
