@@ -106,13 +106,13 @@ Received hits:
 
 [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [RIP] 
 
-Used Shots:
+Weapons (select two):
 
-Machine Gun: [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] 
+(&nbsp;&nbsp;) Machine Gun: [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] 
 
-Hand Gun: [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] 
+(&nbsp;&nbsp;) Hand Gun: [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] 
 
-Sniper Rifle: [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] 
+(&nbsp;&nbsp;) Sniper Rifle: [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] 
 
-Flame Thrower: [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;]
+(&nbsp;&nbsp;) Flame Thrower: [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;]
 
