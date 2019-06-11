@@ -69,7 +69,7 @@ Attacker can use melee combat with fist fighting skills only if opponent is at m
 
 ### Death and obtaining gear
 
-If a player is shot to death, his or her miniaturre is laid down horizontally on the spot where it was killed. Next player that reaches this spot can select one of the dead player's weapons along with it's available shots. The dead miniature can then be removed from the arena.
+If a player is shot to death, his or her miniature is laid down horizontally on the spot where it was killed. Next player that reaches this spot can select one of the dead player's weapons along with it's available shots. The dead miniature can then be removed from the arena.
 
 ## Charts
 
