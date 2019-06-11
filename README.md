@@ -23,7 +23,7 @@ To be the last surviving player or team in the battle arena.
 
 ## How to play
 
-Players roll d20 and the one who has the biggest die number starts. Turns go clockwise. Each player turn consist of two actions. Actions can be either MOVE, CLIMB, ATTACK or FOCUS. Player needs to call out his or her intentions to the rest of the palyers before doing the action.
+Players roll 1d20 and the one who has the biggest die number starts. Turns go clockwise. Each player turn consist of two actions. Actions can be either MOVE, CLIMB, ATTACK or FOCUS. Player needs to call out his or her intentions to the rest of the palyers before doing the action.
 
 ### Move action
 
@@ -58,6 +58,10 @@ When attacking with advance, roll 2d20 and select the higher outcome, then add t
 ### Attack with disadvantage
 
 If opponent is peeking from behind a corner or is visible with only it's head, player attacks with disadvantage. Roll 2d20 and select the lower outcome, then add the weapon's attack modifier.
+
+### Attack with melee
+
+Attacker can use melee combat with fist fighting skills only if opponent is at most one (1) inch away from attacker. To make a melee attack, roll 1d20 and add your strength (STR) modifier. As with weapons, melee attack roll result needs to exceed opponent's AC.
 
 ### Death and obtaining gear
 
