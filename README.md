@@ -77,14 +77,14 @@ Consult charts below to figure out differrent statistics needed for combat.
 
 #### Attack Modifiers for different weapons
 
-If attack modifier for certain distance has a value of N/A, it means that specific weapon can not be used for the selected distance.
+For each shot taken, roll 1d20 and add weapon's attack modifier for corresponging distance of the opponent.
 
 | Distance     | 0-2" | 2-4" | 4-6" | 6-8" | 8-10" | 10-14" | 14-20" | 20-24" | 24-28" | 28-32" | > 32" |
 |--------------|:----:|:----:|:----:|:----:|:-----:|:------:|:------:|:------:|:------:|:------:|:-----:|
 | Machine Gun  |  -2  |   0  |   1  |   2  |   2   |    2   |    4   |    2   |    0   |   -2   |   -4  |
 | Hand Gun     |   0  |   1  |   2  |   4  |   4   |    2   |    2   |    0   |   -2   |   -4   |   -4  |
-| Sniper Rifle |  N/A |  N/A |  N/A |  N/A |   -4  |   -2   |    0   |    2   |    4   |    4   |   0   |
-| Flamethrower |   4  |   4  |   3  |   2  |   0   |   N/A  |   N/A  |   N/A  |   N/A  |   N/A  |   N/A |
+| Sniper Rifle |  -6  |  -6  |  -6  |  -6  |   -4  |   -2   |    0   |    2   |    4   |    4   |   0   |
+| Flamethrower |   4  |   4  |   3  |   2  |   0   |   -6   |   -6   |   -6   |   -6   |   -6   |   -6  |
 
 #### Available shots for each weapon
 
