@@ -93,3 +93,28 @@ If attack modifier for certain distance has a value of N/A, it means that specif
 | Hand Gun      |   1   |
 | Sniper Rifle  |   1   |
 | Flame Thrower |   1   |
+
+## Character sheet
+
+Character name: ______________________
+
+| HP | AC | SPD | STR |
+|:--:|:--:|:---:|:---:|
+| 8  | 13 |  5  |  3  |
+
+Received hits:
+
+[ ] [ ] [ ] [ ] [ ] [ ] [ ] [RIP] 
+
+
+Used shots for weapon ________________
+[ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [OUT] 
+
+Used shots for weapon ________________
+[ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [OUT] 
+
+Used shots for weapon ________________
+[ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [OUT] 
+
+Used shots for weapon ________________
+[ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ OUT] 
