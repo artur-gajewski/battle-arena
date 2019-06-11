@@ -2,6 +2,8 @@
 
 Miniature combat tabletop game designed by Artur Gajewski
 
+* * * DRAFT * * *
+
 ## Objective
 
 To be the last surviving player or team in the battle arena.
