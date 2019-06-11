@@ -106,7 +106,7 @@ If attack modifier for certain distance has a value of N/A, it means that specif
 
 ## Character sheets
 
-- Invius [open](Invius.md)
-- Drabus [open](Drabus.md)
-- Tigerus [open](Tigerus.md)
-- Mores [open](Mores.md)
+- [Invius](Invius.md)
+- [Drabus](Drabus.md)
+- [Tigerus](Tigerus.md)
+- [Mores](Mores.md)
