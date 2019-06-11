@@ -79,11 +79,11 @@ Consult charts below to figure out differrent statistics needed for combat.
 
 If attack modifier for certain distance has a value of N/A, it means that specific weapon can not be used for the selected distance.
 
-| Distance     | 0-2" | 2-4" | 4-6" | 6-8" | 8-10" | 10-12" | 12-14" | 14-16" | 16-18" | 18-20" | > 20" |
+| Distance     | 0-2" | 2-4" | 4-6" | 6-8" | 8-10" | 10-12" | 12-14" | 14-16" | 16-18" | 18-22" | > 22" |
 |--------------|:----:|:----:|:----:|:----:|:-----:|:------:|:------:|:------:|:------:|:------:|:-----:|
 | Machine Gun  |  -4  |  -2  |   0  |   0  |   2   |    2   |    4   |    2   |    0   |   -2   |   -4  |
 | Hand Gun     |  -2  |   0  |   2  |   4  |   4   |    2   |    2   |    0   |   -2   |   -4   |   -4  |
-| Sniper Rifle |  N/A |  N/A |  N/A |  N/A |   -4  |   -2   |    0   |    2   |    4   |    4   |   4   |
+| Sniper Rifle |  N/A |  N/A |  N/A |  N/A |   -4  |   -2   |    0   |    2   |    4   |    4   |   0   |
 | Flamethrower |   4  |   4  |   3  |   2  |   0   |   N/A  |   N/A  |   N/A  |   N/A  |   N/A  |   N/A |
 
 #### Available shots for each weapon
