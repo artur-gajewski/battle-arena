@@ -1,8 +1,10 @@
 # BATTL:E ARENA
 
-Designed by Artur Gajewski
+Miniature combat tabletop game designed by Artur Gajewski
 
-This game is a tactical miniature battle game for tabletops. It has a small learning curve and lots of action.
+## Objective
+
+To be the last surviving player or team in the battle arena.
 
 ## What you need to play
 
