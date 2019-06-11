@@ -2,7 +2,7 @@
 
 Miniature combat tabletop game designed by Artur Gajewski
 
-* * * DRAFT * * *
+DRAFT
 
 ## Objective
 
