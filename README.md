@@ -94,7 +94,7 @@ If attack modifier for certain distance has a value of N/A, it means that specif
 | Sniper Rifle  |   1   |
 | Flame Thrower |   1   |
 
-## Character sheet
+## Character sheets
 
 Character name: ______________________
 
@@ -104,17 +104,15 @@ Character name: ______________________
 
 Received hits:
 
-[ ] [ ] [ ] [ ] [ ] [ ] [ ] [RIP] 
+[&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [RIP] 
 
+Used Shots:
 
-Used shots for weapon ________________
-[ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [OUT] 
+Machine Gun: [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] 
 
-Used shots for weapon ________________
-[ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [OUT] 
+Hand Gun: [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] 
 
-Used shots for weapon ________________
-[ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [OUT] 
+Sniper Rifle: [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] 
 
-Used shots for weapon ________________
-[ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ OUT] 
+Flame Thrower: [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;]
+
