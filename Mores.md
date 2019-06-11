@@ -1,4 +1,8 @@
-__Character name: Mores
+# BATTL:E ARENA
+
+## Character sheet
+
+### Mores
 
 | HP | AC | SPD | STR |
 |:--:|:--:|:---:|:---:|
