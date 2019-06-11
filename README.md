@@ -41,7 +41,7 @@ On successful climb or descend, miniature should be placed in the very first ava
 
 ### Attack action
 
-To attack, the opponent needs to be in clear line-of-sight, meaning that the opponent is seen and visible from the attacker's point of view. To attack, player rolls d20 and adds modifier based on used weapon and distance of a target. The result needs to be above target's armor class (AC).
+To attack, the opponent needs to be in clear line-of-sight, meaning that the opponent is seen and visible from the attacker's point of view. To attack, player rolls d20 and adds modifier based on used weapon and distance of a target. The result needs to be above target's armor class (AC). 
 
 When attacking with certain weapons, there might be possibility for a multiple shots per attack. Player rolls as many d20 dice as he or she wants to shoot per attack turn, but no more than the weapon's burst count.
 
@@ -76,8 +76,6 @@ If a player is shot to death, his or her miniature is laid down horizontally on 
 Consult charts below to figure out differrent statistics needed for combat.
 
 #### Attack Modifiers for different weapons
-
-For each shot taken, roll 1d20 and add weapon's attack modifier for corresponging distance of the opponent.
 
 | Distance     | 0-2" | 2-4" | 4-6" | 6-8" | 8-10" | 10-14" | 14-20" | 20-24" | 24-28" | 28-32" | > 32" |
 |--------------|:----:|:----:|:----:|:----:|:-----:|:------:|:------:|:------:|:------:|:------:|:-----:|
