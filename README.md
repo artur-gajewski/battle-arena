@@ -59,7 +59,7 @@ If opponent is peeking from behind a corner or is visible with only it's head, p
 
 ### Death and obtaining gear
 
-If a player is shot to death, it is laid down horizontally on the spot of where it was killed. Next player that reaches this spot can select one of the dead player's weapons along with it's available shots.
+If a player is shot to death, his or her miniaturre is laid down horizontally on the spot where it was killed. Next player that reaches this spot can select one of the dead player's weapons along with it's available shots. The dead miniature can then be removed from the arena.
 
 ## Charts
 
