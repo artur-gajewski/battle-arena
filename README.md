@@ -102,11 +102,13 @@ Character name: ______________________
 |:--:|:--:|:---:|:---:|
 | 8  | 13 |  5  |  3  |
 
-Received hits:
+__Received hits__
 
 [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [RIP] 
 
-Weapons (select two):
+__Weapons:__
+
+Select two from the list below by filling up circle. Fill in each square bracket for used shot (dice roll) for specific weapon used.
 
 (&nbsp;&nbsp;) Machine Gun: [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] [&nbsp;] 
 
