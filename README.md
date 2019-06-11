@@ -37,6 +37,8 @@ If player wants to position the miniature so that it's peeking from behind the c
 
 If player wants to climb up to another layer or descend to layer below in 3D arena, he or she needs to throw d20 and add strength (STR) modifier to the die result. If the total is 10 or more, the climb is successful. If the total is below 10, the climb is not successful and player doesn't change the layer. Either way, one action is used per climb or descend action.
 
+On successful climb or descend, miniature should be placed in the very first available spot at the entry point to the new layer.
+
 ### Attack action
 
 To attack, the opponent needs to be in clear line-of-sight, meaning that the opponent is seen and visible from the attacker's point of view. To attack, player rolls d20 and adds modifier based on used weapon and distance of a target. The result needs to be above target's armor class (AC).
