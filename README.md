@@ -1,5 +1,6 @@
 # BATTL:E ARENA
-Open Source miniature tabletop game
+
+Designed by Artur Gajewski
 
 ## About
 
