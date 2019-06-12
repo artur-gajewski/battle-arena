@@ -53,15 +53,15 @@ When shot or burst of shots are made, no matter what the outcome, attacking play
 
 If player is peeking from behind a corner, he or she attacks with disadvantage. To attack without disadvantage, player must spend a move action to reveal the miniature fully. Player can hide behind the corner again during next turn's move action.
 
-#### Attack with advantage
+### Attack with advantage
 
 When attacking with advantage, roll 2d20 and select the higher outcome, then add the weapon's attack modifier.
 
-#### Attack with disadvantage
+### Attack with disadvantage
 
 If opponent is peeking from behind a corner or is visible with only it's head, player attacks with disadvantage. Roll 2d20 and select the lower outcome, then add the weapon's attack modifier.
 
-#### Attack with melee
+### Attack with melee
 
 Attacker can use melee combat with fist fighting skills only if opponent is at most one (1) inch away from attacker. To make a melee attack, roll 1d20 and add your strength (STR) modifier. As with weapons, melee attack roll result needs to exceed opponent's AC.
 
