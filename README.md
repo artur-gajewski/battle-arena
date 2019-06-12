@@ -33,6 +33,8 @@ In order to move, player needs to consult character sheet to find out the speed 
 
 If player wants to position the miniature so that it's peeking from behind the corner, player needs to announce this so that rest of the players know that attacking from behind the corner is done with disadvantage (see below).
 
+If user is peeking from behind a corner, he or she attacks with disadvantage. To attack without disadvantage, player must spend a move action to reveal the miniature fully. Player can hide behind the corner again during next turn's move action.
+
 ### Climb action
 
 If player wants to climb up to another layer or descend to layer below in 3D arena, he or she needs to throw d20 and add strength (STR) modifier to the die result. If the total is 10 or more, the climb is successful. If the total is below 10, the climb is not successful and player doesn't change the layer. Either way, one action is used per climb or descend action.
@@ -49,15 +51,11 @@ When shot or burst of shots are made, no matter what the outcome, attacking play
 
 ### Focus action
 
-During his or her turn, player can commence a focus action. This action disables player to do any actions during their turn but has one of the following outcomes, chosen by the player:
-
-1. Enable attack with advance in next turn (this is used during next turn only whether attacking or not)
-2. Add three (3) shots to selected weapon
-3. Add one (1) to hit points, but total amount of hit points should not be more than the initial hit points in character sheet
+During his or her turn, player can commence a focus action. This action disables from doing any actions during their turn but has a bonus that enables attack with advantage during next turn only, and is used whether attacking or not.
 
 ### Attack with advantage
 
-When attacking with advance, roll 2d20 and select the higher outcome, then add the weapon's attack modifier.
+When attacking with advantage, roll 2d20 and select the higher outcome, then add the weapon's attack modifier.
 
 ### Attack with disadvantage
 
