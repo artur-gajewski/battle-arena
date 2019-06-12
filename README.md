@@ -25,7 +25,7 @@ To be the last surviving player or team in the battle arena.
 
 ## How to play
 
-Players roll 1d20 and the one who has the biggest die number starts. Turns go clockwise. Each player turn consist of two actions. Actions can be either MOVE, CLIMB, ATTACK or FOCUS. Player needs to call out his or her intentions to the rest of the palyers before doing the action.
+Players roll 1d20 and the one who has the biggest die number starts. Turns go clockwise. Each player turn consist of two actions. Actions can be either MOVE, CLIMB, FOCUS or ATTACK. Player needs to call out his or her intentions to the rest of the palyers before doing the action.
 
 ### Move action
 
@@ -39,6 +39,10 @@ If player wants to climb up to another layer or descend to layer below in 3D are
 
 On successful climb or descend, miniature should be placed in the very first available spot at the entry point to the new layer.
 
+### Focus action
+
+During his or her turn, player can commence a focus action. This action disables from doing any actions during their turn but has a bonus that enables attack with advantage during next turn only, and is used whether attacking or not.
+
 ### Attack action
 
 To attack, the opponent needs to be in clear line-of-sight, meaning that the opponent is seen and visible from the attacker's point of view. To attack, player rolls d20 and adds modifier based on used weapon and distance of a target. The result needs to be above target's armor class (AC). 
@@ -49,19 +53,15 @@ When shot or burst of shots are made, no matter what the outcome, attacking play
 
 If player is peeking from behind a corner, he or she attacks with disadvantage. To attack without disadvantage, player must spend a move action to reveal the miniature fully. Player can hide behind the corner again during next turn's move action.
 
-### Focus action
-
-During his or her turn, player can commence a focus action. This action disables from doing any actions during their turn but has a bonus that enables attack with advantage during next turn only, and is used whether attacking or not.
-
-### Attack with advantage
+#### Attack with advantage
 
 When attacking with advantage, roll 2d20 and select the higher outcome, then add the weapon's attack modifier.
 
-### Attack with disadvantage
+#### Attack with disadvantage
 
 If opponent is peeking from behind a corner or is visible with only it's head, player attacks with disadvantage. Roll 2d20 and select the lower outcome, then add the weapon's attack modifier.
 
-### Attack with melee
+#### Attack with melee
 
 Attacker can use melee combat with fist fighting skills only if opponent is at most one (1) inch away from attacker. To make a melee attack, roll 1d20 and add your strength (STR) modifier. As with weapons, melee attack roll result needs to exceed opponent's AC.
 
